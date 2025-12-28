@@ -7,6 +7,7 @@ Soybean crops are highly affected by leaf diseases, and manual identification by
 Solution:
 Developed an AI-based leaf disease detection system that automatically identifies soybean leaf diseases from images using deep learning techniques, enabling early and accurate diagnosis.
 
+
 How It Works / What I Did:
 
 Collected and used a soybean leaf image dataset containing healthy and diseased leaf samples.
@@ -19,6 +20,7 @@ Classified images into healthy or disease categories using a Softmax classifier.
 
 Evaluated model performance using accuracy and validation metrics.
 
+
 Impact / Outcome:
 
 Enables early disease detection, reducing crop loss.
@@ -26,6 +28,7 @@ Enables early disease detection, reducing crop loss.
 Assists farmers in taking timely preventive measures.
 
 Demonstrates practical application of computer vision and deep learning in agriculture.
+
 
 Technologies Used:
 Python, CNN, TensorFlow / Keras, OpenCV, NumPy, Deep Learning, Image Processing
