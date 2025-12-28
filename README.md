@@ -10,7 +10,7 @@ Developed an AI-based leaf disease detection system that automatically identifie
 
 How It Works / What I Did:
 
-Collected and used a soybean leaf image dataset containing healthy and diseased leaf samples.
+* Collected and used a soybean leaf image dataset containing healthy and diseased leaf samples.
 
 Performed image preprocessing such as resizing, normalization, and data augmentation to improve model accuracy.
 
