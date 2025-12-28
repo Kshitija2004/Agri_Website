@@ -12,22 +12,22 @@ How It Works / What I Did:
 
 * Collected and used a soybean leaf image dataset containing healthy and diseased leaf samples.
 
-Performed image preprocessing such as resizing, normalization, and data augmentation to improve model accuracy.
+* Performed image preprocessing such as resizing, normalization, and data augmentation to improve model accuracy.
 
-Trained a Convolutional Neural Network (CNN) (using models like ResNet / EfficientNet) to extract visual features from leaf images.
+* Trained a Convolutional Neural Network (CNN) (using models like ResNet / EfficientNet) to extract visual features from leaf images.
 
-Classified images into healthy or disease categories using a Softmax classifier.
+* Classified images into healthy or disease categories using a Softmax classifier.
 
-Evaluated model performance using accuracy and validation metrics.
+* Evaluated model performance using accuracy and validation metrics.
 
 
 Impact / Outcome:
 
-Enables early disease detection, reducing crop loss.
+* Enables early disease detection, reducing crop loss.
 
-Assists farmers in taking timely preventive measures.
+* Assists farmers in taking timely preventive measures.
 
-Demonstrates practical application of computer vision and deep learning in agriculture.
+* Demonstrates practical application of computer vision and deep learning in agriculture.
 
 
 Technologies Used:
